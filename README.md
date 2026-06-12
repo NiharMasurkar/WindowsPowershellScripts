@@ -52,3 +52,7 @@ This script cleans up OneDrive local caches across all user profiles by converti
 ### UserProfile-TempDataCleanup
 This script cleans up temporary data for all user profiles in the C:\Users directory, excluding standard system folders. It iterates through each user's Local Temp directory, attempting to delete all files and subfolders.
 ###
+
+### Cleanup OS Drive
+This script performs a comprehensive cleanup of the C: drive by clearing temporary files, user caches, and the Windows Update download cache. It also reports the drive's storage status before and after cleanup.
+###
