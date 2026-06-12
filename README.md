@@ -56,3 +56,7 @@ This script cleans up temporary data for all user profiles in the C:\Users direc
 ### Cleanup OS Drive
 This script performs a comprehensive cleanup of the C: drive by clearing temporary files, user caches, and the Windows Update download cache. It also reports the drive's storage status before and after cleanup.
 ###
+
+### Check-DriveStorage
+This script scans the C drive and reports the size of top-level folders and the largest individual files.
+###
