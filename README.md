@@ -43,3 +43,8 @@ A PowerShell version of my SCOM Maintentance Mode tool.  This works with SCOM 20
 ### Show-InputForm
 Multiple use GUI for asking for a variety of input types that can also perform simple validation.  See https://imgur.com/a/ZRXGT for images
 ###
+
+
+### OneDriveCleanup
+This script cleans up OneDrive local caches across all user profiles by converting files to online-only, freeing up space.
+###
